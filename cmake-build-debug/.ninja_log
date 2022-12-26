@@ -1,0 +1,5 @@
+# ninja log v5
+2	281	1672059617080755403	CMakeFiles/dsa.dir/main.cpp.o	12c001e8359438c1
+281	314	1672059617115230248	dsa	9725326b6afe982b
+0	260	1672059703750705887	CMakeFiles/dsa.dir/MaxProfitBuyAndSellStockDivdeAndConquer.cpp.o	c2724d312efcdbde
+261	295	1672059703786416161	dsa	e38cfff2bc646ea1
